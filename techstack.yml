@@ -1,0 +1,145 @@
+repo_name: thinhngotony/Tino-Chain-on-Ethereum
+report_id: 862e0696008e66522532dc6934f56311
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-27T17:21:22+00:00'
+requested_by: thinhngotony
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum/blob/master/Truffle
+    Unbox React/client/package-lock.json
+  detection_source: Truffle Unbox React/client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 06:56:43.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum/blob/master/Truffle
+    Unbox React/client/yarn.lock
+  detection_source: Truffle Unbox React/client/yarn.lock
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 06:56:43.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum/blob/master/Truffle
+    Unbox React/client/package.json
+  detection_source: Truffle Unbox React/client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 06:56:43.000000000 Z
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum/blob/master/Truffle
+    Unbox React/client/package.json
+  detection_source: Truffle Unbox React/client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 06:56:43.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum/blob/master/Truffle
+    Unbox React/client/package-lock.json
+  detection_source: Truffle Unbox React/client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 06:56:43.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum/blob/master/Truffle
+    Unbox React/client/package-lock.json
+  detection_source: Truffle Unbox React/client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 06:56:43.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 1.6.1
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/thinhngotony/Tino-Chain-on-Ethereum/blob/master/Truffle
+    Unbox React/client/package-lock.json
+  detection_source: Truffle Unbox React/client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 06:56:43.000000000 Z
